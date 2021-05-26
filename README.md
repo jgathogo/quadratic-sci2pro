@@ -1,11 +1,11 @@
 # quadratic-sci2pro
-##Overview
+## Overview
 A simple Python module to solve quadratic equation
 
-##Parameters:
+## Parameters:
 - a (float): Value a, not equal to zero
 - b(float): Value b
 - c(float): Value c 
   
-##Returns:
+## Returns:
 - float:Returning values of x
