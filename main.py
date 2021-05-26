@@ -4,6 +4,18 @@ import math
 
 
 def calculate(a, b, c):
+    """
+    Solve quadratic equation and return the value of x
+
+    Parameters:
+        a (float): Value a, not equal to zero
+        b(float): Value b
+        c(float): Value c
+
+    Returns:
+        float:Returning value
+
+       """
     discriminant = b ** 2 - 4 * a * c
     if discriminant < 0:
         return None, None
